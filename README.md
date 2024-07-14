@@ -88,5 +88,5 @@ createProposal(proposal_title: string, proposal_description: string, proposal_pe
 castVote(vote: boolean #true or false)
 ```
 
-# Loom Video
-https://sdsd.com
+# Youtube Video
+https://www.youtube.com/watch?v=w634Wh15vEo
